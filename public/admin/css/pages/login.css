@@ -1,0 +1,32 @@
+#login {
+    background-image: url('../../img/auth/login-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#login .login-form{
+    width: 400px !important;
+    padding: 30px 40px  !important;
+    background-color: #fff;
+}
+#login .input-group-text{
+    background-color: var(--primary-color);
+    color: var(--white-color);
+}
+#login .eye-wraper{
+    position:relative
+}
+#login .eye-toggle{
+    position: absolute;right: 10px;top:23%
+}
+#login .password {
+    padding-right: 30px !important;
+}
+#login .logo {
+    max-width: 80px;
+}
+#login .title{
+    font-size: 25px !important;
+    letter-spacing: 4px;
+}
+
